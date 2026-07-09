@@ -8,11 +8,10 @@
 
 ### 💻 About Me
 
-* 🤖 **Current Status:** Converting caffeine into compiled code (and sometimes bugs).
-* ☁️ **DevOps Philosophy:** If it compiles, ship it. If it fails, blame the DNS.
-* 🎨 **Frontend Taste:** CRT monitors, scanlines, and glowing green terminals.
-* 📂 **Git Commit style:** `git commit -m "should work now"` (Narrator: *It did not*).
-* 🎯 **Objective:** Actively seeking internships where I can break staging instead of prod.
+* 🚀 **Focus:** Building secure, automated cloud architectures and interactive web applications.
+* 🛸 **Workspace:** Organizing and building interactive full-stack projects inside my custom `Vibe-Coding` environment.
+* ⚡ **Specialties:** Infrastructure as Code (IaC), CI/CD pipelines, containerization, and clean user interfaces.
+* 🎯 **Objective:** Actively seeking DevOps & Full-Stack engineering internship opportunities.
 
 ---
 
