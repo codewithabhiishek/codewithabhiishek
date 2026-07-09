@@ -1,77 +1,42 @@
 # Hi there, I'm Abhiishek! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Software+Engineer;DevOps+%26+Cloud+Automation;React+%26+ThreeJS+Creative+Developer;Building+robust+pipelines+and+interactive+web+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Converting+caffeine+into+compiled+code;DevOps+is+just+making+sure+things+fail+in+parallel;ThreeJS+and+React+enthusiast;Yes,+I+deploy+on+Fridays" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💻 About Me
+### 📡 System Output
 
-I am a **Software Engineer** specializing in **Cloud Automation, DevOps, and Full-Stack development**. I love bridging the gap between robust system infrastructure and highly polished, interactive user interfaces.
-
-* 🚀 **Currently building:** Modern cloud pipelines, interactive 3D web spaces, and developer utility tools.
-* 🛠️ **Deepening skills in:** Kubernetes, Terraform infrastructure-as-code, and advanced System Design.
-* 💬 **Ask me about:** Python, Docker containerization, Linux systems, and retro-computing aesthetics.
-* 🎯 **Goal:** Turning complex software architectures into clean, accessible user experiences.
-
----
-
-### 🛠️ Tech Stack
-
-#### ☁️ Cloud, Infrastructure & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/prometheus-e6522c?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" />
-</p>
-
-#### 💻 Programming Languages & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-</p>
-
-#### 🗄️ Databases, Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+* 🤖 **Current Status:** Troubleshooting a memory leak in my social life.
+* ☁️ **DevOps Philosophy:** If it compiles, ship it. If it fails, blame the DNS.
+* 🎨 **Frontend Taste:** CRT monitors, scanlines, and glowing green terminals.
+* 📂 **Git Commit style:** `git commit -m "should work now"` (Narrator: *It did not*).
+* 🎯 **Primary Objective:** Actively seeking internships where I can break things in staging instead of prod.
 
 ---
 
----
+### 🛠️ The Toolkit
+
+| Category | Technologies |
+| :--- | :--- |
+| **☁️ Cloud & DevOps** | AWS • Kubernetes • Terraform • Docker • Jenkins • GitHub Actions • Prometheus • Grafana |
+| **💻 Code & Visuals** | TypeScript • JavaScript • Python • Go • C++ • React • Next.js • ThreeJS / R3F |
+| **🗄️ Databases & Tools** | PostgreSQL • Supabase • MySQL • Git • Postman • Linux |
 
 ---
 
-### 🖥️ System Status: `codewithabhiishek.json`
+### ⚙️ runtime_config.sh
+```bash
+$ cat abhiishek.sh
 
-```json
-{
-  "name": "Abhiishek Jain",
-  "current_role": "Full-Stack & DevOps Engineer",
-  "specialties": [
-    "CI/CD Automation Pipelines",
-    "Infrastructure as Code (IaC)",
-    "Interactive 3D Frontend Development"
-  ],
-  "learning_roadmap": {
-    "q3_2026": "Advanced Kubernetes orchestration",
-    "q4_2026": "Multi-region cloud infrastructure scaling"
-  },
-  "operating_systems": ["Linux", "macOS"],
-  "status": "ready_to_collaborate"
-}
+# Environment variables
+EXPORT LATENCY="low-on-coffee"
+EXPORT EXPERTISE="infrastructure_and_visual_chaos"
+EXPORT INTERNSHIP_STATUS="actively_looking"
+
+# Run diagnostic check
+$ ./check_vibe.sh
+> Checking stack... [OK]
+> Checking git history... [TOO MANY MERGE CONFLICTS]
+> System Vibe: 100% Ready 🚀
