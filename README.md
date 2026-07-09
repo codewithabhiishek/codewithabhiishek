@@ -55,13 +55,23 @@ I am a **Software Engineer** specializing in **Cloud Automation, DevOps, and Ful
 
 ---
 
-### 📊 GitHub Activity & Insights
+---
 
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=codewithabhiishek&show_icons=true&theme=matrix&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=codewithabhiishek&layout=compact&theme=matrix&hide_border=true&langs_count=6" />
-</p>
+### 🖥️ System Status: `codewithabhiishek.json`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithabhiishek&theme=matrix&hide_border=true" />
-</p>
+```json
+{
+  "name": "Abhiishek Jain",
+  "current_role": "Full-Stack & DevOps Engineer",
+  "specialties": [
+    "CI/CD Automation Pipelines",
+    "Infrastructure as Code (IaC)",
+    "Interactive 3D Frontend Development"
+  ],
+  "learning_roadmap": {
+    "q3_2026": "Advanced Kubernetes orchestration",
+    "q4_2026": "Multi-region cloud infrastructure scaling"
+  },
+  "operating_systems": ["Linux", "macOS"],
+  "status": "ready_to_collaborate"
+}
