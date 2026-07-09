@@ -53,28 +53,15 @@ I am a **Software Engineer** specializing in **Cloud Automation, DevOps, and Ful
 
 ---
 
+---
+
 ### 📊 GitHub Activity & Insights
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=codewithabhiishek&show_icons=true&theme=matrix&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithabhiishek&layout=compact&theme=matrix&hide_border=true&langs_count=6" />
+  <img height="180px" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=codewithabhiishek&show_icons=true&theme=matrix&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=codewithabhiishek&layout=compact&theme=matrix&hide_border=true&langs_count=6" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithabhiishek&theme=matrix&hide_border=true" />
-</p>
-
----
-
-### 📫 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/abhishek-jain-b0929025b" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:jain.abhishek3832@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/codewithabhii" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter/X" />
-  </a>
 </p>
