@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewithabhiishek&color=39ff14&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Software+Engineer;DevOps+%26+Cloud+Automation;React+%26+ThreeJS+Creative+Developer;Building+robust+pipelines+and+interactive+web+experiences" alt="Typing SVG" />
 </p>
 
@@ -63,27 +59,6 @@
 
 ---
 
-### 🖥️ System Status
-
-```
-┌──────────────────────────────────────────────────────────┐
-│  abhiishek@devops-terminal                                 │
-│  ────────────────────────                                  │
-│  OS:        DevOps Engineer (Linux/macOS)                  │
-│  Host:      codewithabhiishek                              │
-│  Shell:     zsh + tmux                                     │
-│  Focus:     Cloud Infra · CI/CD · Full-Stack                │
-│                                                              │
-│  Languages: TypeScript, Python, Go, C++                    │
-│  Infra:     Kubernetes, Terraform, Docker, GitHub Actions   │
-│  DB:        PostgreSQL, Supabase, MySQL                    │
-│                                                              │
-│  Contrib:   Argo CD (namespace validation UI,               │
-│             DockerHub webhook extension)                    │
-│  Current:   Traffic Intelligence Platform (YOLOv8,          │
-│             ByteTrack, FastAPI, React)                      │
-│                                                              │
-│  Goal:      MS in CS @ Germany (Winter 2026)                │
-│  Status:    ready_to_collaborate                            │
-└──────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codewithabhiishek&color=ff0080&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
