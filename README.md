@@ -5,9 +5,9 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithabhiishek/codewithabhiishek/output/github-contribution-grid-snake-dark.svg?v=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithabhiishek/codewithabhiishek/output/github-contribution-grid-snake.svg?v=6" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codewithabhiishek/codewithabhiishek/output/github-contribution-grid-snake.svg?v=6" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithabhiishek/codewithabhiishek/output/github-contribution-grid-snake-dark.svg?v=7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithabhiishek/codewithabhiishek/output/github-contribution-grid-snake.svg?v=7" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codewithabhiishek/codewithabhiishek/output/github-contribution-grid-snake.svg?v=7" />
 </picture>
 
 ---
@@ -57,17 +57,27 @@
 
 ---
 
-### 🖥️ System Status: `codewithabhiishek.json`
+### 🖥️ System Status
 
-```json
-{
-  "name": "Abhiishek Jain",
-  "current_role": "Full-Stack & DevOps Engineer",
-  "specialties": [
-    "CI/CD Automation Pipelines",
-    "Infrastructure as Code (IaC)",
-    "Interactive 3D Frontend Development"
-  ],
-  "operating_systems": ["Linux", "macOS"],
-  "status": "ready_to_collaborate"
-}
+```
+┌──────────────────────────────────────────────────────────┐
+│  abhiishek@devops-terminal                                 │
+│  ────────────────────────                                  │
+│  OS:        DevOps Engineer (Linux/macOS)                  │
+│  Host:      codewithabhiishek                              │
+│  Shell:     zsh + tmux                                     │
+│  Focus:     Cloud Infra · CI/CD · Full-Stack                │
+│                                                              │
+│  Languages: TypeScript, Python, Go, C++                    │
+│  Infra:     Kubernetes, Terraform, Docker, GitHub Actions   │
+│  DB:        PostgreSQL, Supabase, MySQL                    │
+│                                                              │
+│  Contrib:   Argo CD (namespace validation UI,               │
+│             DockerHub webhook extension)                    │
+│  Current:   Traffic Intelligence Platform (YOLOv8,          │
+│             ByteTrack, FastAPI, React)                      │
+│                                                              │
+│  Goal:      MS in CS @ Germany (Winter 2026)                │
+│  Status:    ready_to_collaborate                            │
+└──────────────────────────────────────────────────────────┘
+```
