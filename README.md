@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=35&duration=1500&pause=500&color=39FF14&background=0A0A0A00&center=true&vCenter=true&repeat=true&width=700&lines=H%3F+th%3Fre%2C+I%27m+Abh%3Fishek;Hi+there%2C+I%27m+Abhiishek+%F0%9F%91%8B" alt="Glitch SVG" />
+  <img src="https://readme-jokes.vercel.app/api" width="450">
 </p>
-
 
 
 <p align="center">
