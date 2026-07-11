@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff14,100:ff0080&height=200&section=header&text=Hi%20there,%20I'm%20Abhiishek%20%F0%9F%91%8B&fontSize=40&fontColor=0a0a0a&animation=fadeIn&fontAlignY=35" width="100%" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=39FF14&background=0A0A0A00&center=true&vCenter=true&width=800&height=100&lines=%3E+whoami;Abhiishek+Jain;%3E+status;ready_to_collaborate" alt="Terminal SVG" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Software+Engineer;DevOps+%26+Cloud+Automation;React+%26+ThreeJS+Creative+Developer;Building+robust+pipelines+and+interactive+web+experiences" alt="Typing SVG" />
