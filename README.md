@@ -1,31 +1,35 @@
+ <!-- TERMINAL HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=1000&color=39FF14&background=0A0A0A00&center=true&vCenter=true&width=800&height=100&lines=%3E+whoami;Abhishek+Jain;%3E+status;ready_to_collaborate" alt="Terminal SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Developer technology banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=FFB000&center=true&vCenter=true&width=700&lines=Software+Engineer;DevOps+%26+Cloud+Automation;React+%26+ThreeJS+Creative+Developer;Building+robust+pipelines+and+interactive+web+experiences" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif" width="100%" alt="Pixel art developer workspace" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithabhiishek/codewithabhiishek/output/github-contribution-grid-snake-dark.svg?v=7" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithabhiishek/codewithabhiishek/output/github-contribution-grid-snake.svg?v=7" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codewithabhiishek/codewithabhiishek/output/github-contribution-grid-snake.svg?v=7" />
-</picture>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=42&center=true&vCenter=true&width=1000&height=90&duration=4000&pause=1000&color=39FF14&lines=Hi+There!+👋+I'm+Abhishek+Jain!+👨‍💻;Software+Engineer;DevOps+%26+Cloud+Automation;Building+Things+That+Matter" alt="Introduction" />
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=FFB000&center=true&vCenter=true&width=800&height=50&lines=%3E+whoami;Software+Engineer;DevOps+%26+Cloud+Automation;React+%26+Full+Stack+Development" alt="Terminal typing animation" />
+</p>
 
 ---
 
 ### 💻 About Me
 
-* 🚀 **Focus:** Building secure, automated cloud architectures and interactive web applications.
-* 🛸 **Workspace:** Organizing and building interactive full-stack projects inside my custom `Vibe-Coding` environment.
-* ⚡ **Specialties:** Infrastructure as Code (IaC), CI/CD pipelines, containerization, and clean user interfaces.
-* 🎯 **Objective:** Actively seeking DevOps & Full-Stack engineering internship opportunities.
+- 🚀 **Focus:** Building secure, automated cloud architectures and interactive web applications.
+- 🛸 **Workspace:** Organizing and building interactive full-stack projects inside my custom `Vibe-Coding` environment.
+- ⚡ **Specialties:** Infrastructure as Code (IaC), CI/CD pipelines, containerization, and clean user interfaces.
+- 🎯 **Objective:** Actively seeking DevOps & Full-Stack engineering internship opportunities.
 
 ---
 
 ### 🛠️ Tech Stack
 
 #### ☁️ Cloud, Infrastructure & DevOps
+
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -38,6 +42,7 @@
 </p>
 
 #### 💻 Programming Languages & Frameworks
+
 <p align="left">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -49,6 +54,7 @@
 </p>
 
 #### 🗄️ Databases, Tools & Platforms
+
 <p align="left">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -59,6 +65,24 @@
 
 ---
 
+### 🐍 GitHub Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithabhiishek/codewithabhiishek/output/github-contribution-grid-snake-dark.svg?v=7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithabhiishek/codewithabhiishek/output/github-contribution-grid-snake.svg?v=7" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/codewithabhiishek/codewithabhiishek/output/github-contribution-grid-snake.svg?v=7" width="100%" />
+  </picture>
+</p>
+
+---
+
+### 📊 Profile
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codewithabhiishek&color=ff0080&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+
+<p align="center">
+  <i>Building, breaking, learning, and building again.</i>
 </p>
