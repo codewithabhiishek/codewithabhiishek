@@ -18,9 +18,26 @@
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=3000&pause=1500&color=39FF14&center=true&vCenter=true&width=700&height=40&lines=%3E+status%3A+building;%3E+mode%3A+continuous_learning;%3E+ready_to_collaborate" alt="Terminal status animation" />
 </p>
 
+<p align="center">
+  <a href="https://abhiishek.is-a.dev/"><img src="https://img.shields.io/badge/%E2%96%B6_LIVE_PORTFOLIO-FFB000?style=for-the-badge&logoColor=black" alt="Live portfolio" /></a>
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/PROJECTS-39FF14?style=for-the-badge&logoColor=black" alt="Projects" /></a>
+  <a href="#-tech-stack"><img src="https://img.shields.io/badge/TECH_STACK-FF00FF?style=for-the-badge&logoColor=white" alt="Tech stack" /></a>
+  <a href="#-connect"><img src="https://img.shields.io/badge/CONNECT-00BFFF?style=for-the-badge&logoColor=white" alt="Connect" /></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
 ---
 
 ### 👨‍💻 About Me
+
+```bash
+abhishek@github:~$ whoami
+> Abhishek Jain | solo dev | full-stack + devops + applied AI
+
+abhishek@github:~$ cat mission.txt
+> build things that actually run, then make them playable
+```
 
 - 🛠️ Solo developer across **full-stack, DevOps/cloud, and applied AI**
 - 🎮 My portfolio isn't a résumé page. It's **25 live, playable web apps, games and dev tools**, all deployed, zero installs
@@ -36,17 +53,28 @@
 
 **My approach:** understand the problem, design the system, build it, test it, make it playable.
 
+<details>
+<summary><b>⚡ Currently</b> (click to expand)</summary>
+<br>
+
+- 🔨 Building and shipping side projects end to end
+- 🧪 Experimenting with computer vision and applied ML
+- ☁️ Sharpening DevOps skills: Kubernetes, Terraform, CI/CD
+- 🤝 Looking for engineering teams to collaborate with
+
+</details>
+
 ---
 
 ### 🚀 Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[ChargeIQ](https://github.com/codewithabhiishek/REPO_NAME)** | EV route planner for India with smart charging stops | React, Maps, ML backend |
-| **[JARVIS](https://github.com/codewithabhiishek/REPO_NAME)** | Personal AI memory assistant | React, FastAPI |
-| **[Focal](https://github.com/codewithabhiishek/REPO_NAME)** | Surfaces one "next best action" using a deterministic scoring formula | React, TypeScript |
-| **[Traffic Intelligence Platform](https://github.com/codewithabhiishek/REPO_NAME)** | AI-powered traffic analysis and violation detection | Python, Computer Vision |
-| **[Portfolio](https://github.com/codewithabhiishek/REPO_NAME)** | CRT/terminal-style personal site | React, Vercel |
+| ⚡ **[ChargeIQ](https://github.com/codewithabhiishek/REPO_NAME)** | EV route planner for India with smart charging stops | React, Maps, ML backend |
+| 🧠 **[JARVIS](https://github.com/codewithabhiishek/REPO_NAME)** | Personal AI memory assistant | React, FastAPI |
+| 🎯 **[Focal](https://github.com/codewithabhiishek/REPO_NAME)** | Surfaces one "next best action" using a deterministic scoring formula | React, TypeScript |
+| 🚦 **[Traffic Intelligence Platform](https://github.com/codewithabhiishek/REPO_NAME)** | AI-powered traffic analysis and violation detection | Python, Computer Vision |
+| 🕹️ **[Portfolio](https://abhiishek.is-a.dev/)** | CRT/terminal-style personal site with 25 live apps and games | React, Vercel |
 
 ---
 
@@ -86,6 +114,7 @@
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
@@ -119,3 +148,5 @@
 <p align="center">
   <i>Building things. Breaking things. Learning how to build them better.</i>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer wave" />
