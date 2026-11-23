@@ -46,17 +46,6 @@ abhishek@github:~$ cat mission.txt
 
 **My approach:** understand the problem, design the system, build it, test it, make it playable.
 
-<details>
-<summary><b>⚡ Currently</b> (click to expand)</summary>
-<br>
-
-- 🔨 Building and shipping side projects end to end
-- 🧪 Experimenting with computer vision and applied ML
-- ☁️ Sharpening DevOps skills: Kubernetes, Terraform, CI/CD
-- 🤝 Looking for engineering teams to collaborate with
-
-</details>
-
 ---
 
 ### 🚀 Featured Projects
