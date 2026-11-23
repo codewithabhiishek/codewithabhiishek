@@ -10,8 +10,16 @@
 
 <!-- ================= INTRODUCTION ================= -->
 
+<h1 align="center">
+  Hi There! 👋 I'm Abhishek Jain! 👨‍💻
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&height=90&lines=Hi+There!+%F0%9F%91%8B+I'm+Abhishek+Jain!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Software+Engineer;DevOps+%26+Cloud+Automation;React+%26+Full+Stack+Developer;Building+Things+That+Matter" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=3000&pause=1000&color=FFB000&center=true&vCenter=true&width=900&height=55&lines=DevOps+%26+Cloud+Engineer;Full+Stack+Developer;Infrastructure+%7C+Automation+%7C+Web+Development;Turning+Ideas+Into+Working+Software" alt="Professional title animation" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=3000&pause=1500&color=39FF14&center=true&vCenter=true&width=700&height=40&lines=%3E+status%3A+building; %3E+mode%3A+continuous_learning; %3E+ready_to_collaborate" alt="Terminal status animation" />
 </p>
 
 ---
@@ -20,10 +28,16 @@
 
 ### 💻 About Me
 
-- 🚀 **Focus:** Building secure, automated cloud architectures and interactive web applications.
-- 🛸 **Workspace:** Organizing and building interactive full-stack projects inside my custom `Vibe-Coding` environment.
-- ⚡ **Specialties:** Infrastructure as Code (IaC), CI/CD pipelines, containerization, and clean user interfaces.
-- 🎯 **Objective:** Actively seeking DevOps & Full-Stack engineering internship opportunities.
+I'm a developer interested in the intersection of **Cloud Infrastructure, DevOps, and Full-Stack Engineering**. I enjoy understanding how systems work behind the scenes and building applications that solve practical problems.
+
+- ☁️ **Cloud & DevOps:** Working with Docker, Kubernetes, Terraform, CI/CD pipelines, and infrastructure automation.
+- 💻 **Full-Stack Development:** Building responsive applications using React, TypeScript, FastAPI, and modern web technologies.
+- 🔬 **Exploring:** Computer Vision, Machine Learning, system design, and intelligent software solutions.
+- 🛠️ **Builder Mindset:** I prefer learning by building, experimenting, debugging, and contributing to real-world projects.
+- 🌱 **Open Source:** Interested in contributing to developer tools and infrastructure projects.
+- 🎯 **Currently:** Improving my engineering skills, building technical projects, and looking for opportunities to collaborate with engineering teams.
+
+**My approach:** Understand the problem, design the system, build it, test it, and make it better.
 
 ---
 
@@ -54,6 +68,7 @@
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 #### 🗄️ Databases, Tools & Platforms
@@ -85,10 +100,9 @@
 <!-- ================= PROFILE VIEWS ================= -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewithabhiishek&color=ff0080&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=codewithabhiishek&color=39FF14&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 <p align="center">
-  <i>Building, breaking, learning, and building again.</i>
+  <i>Building things. Breaking things. Learning how to build them better.</i>
 </p>
-
