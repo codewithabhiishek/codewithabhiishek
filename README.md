@@ -18,12 +18,19 @@
 
 ### 👨‍💻 About Me
 
-- 🛠️ Solo developer working across **full-stack, DevOps/cloud, and applied AI**
-- 🚀 I build projects end to end: UI, API, deployment, and the pipeline behind it
+- 🛠️ Solo developer across **full-stack, DevOps/cloud, and applied AI**
+- 🎮 My portfolio isn't a résumé page. It's **25 live, playable web apps, games and dev tools**, all deployed, zero installs
+- 🚀 I build end to end: UI, API, deployment, and the pipeline behind it
 - 🌍 Based in India, open to collaboration and engineering roles
 - 📚 Learning: system design, computer vision, and German 🇩🇪
 
-**My approach:** understand the problem, design the system, build it, test it, make it better.
+<p align="center">
+  <a href="https://abhiishek.is-a.dev/">
+    <img src="https://img.shields.io/badge/%E2%96%B6%20TRY%20THE%20LIVE%20PORTFOLIO-FFB000?style=for-the-badge&logoColor=black" alt="Try the live portfolio" />
+  </a>
+</p>
+
+**My approach:** understand the problem, design the system, build it, test it, make it playable.
 
 ---
 
@@ -103,7 +110,7 @@
 ### 📫 Connect
 
 <p align="center">
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-FFB000?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://abhiishek.is-a.dev/"><img src="https://img.shields.io/badge/Portfolio-FFB000?style=for-the-badge&logo=vercel&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
