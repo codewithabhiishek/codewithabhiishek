@@ -1,4 +1,5 @@
- <!-- TERMINAL HEADER -->
+ <!-- ================= HEADER ================= -->
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Developer technology banner" />
 </p>
@@ -7,15 +8,23 @@
   <img src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif" width="100%" alt="Pixel art developer workspace" />
 </p>
 
+<!-- ================= INTRODUCTION ================= -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=42&center=true&vCenter=true&width=1000&height=90&duration=4000&pause=1000&color=39FF14&lines=Hi+There!+👋+I'm+Abhishek+Jain!+👨‍💻;Software+Engineer;DevOps+%26+Cloud+Automation;Building+Things+That+Matter" alt="Introduction" />
+  Hi There! 👋 I'm Abhishek Jain! 👨‍💻
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=3000&pause=1000&color=FFB000&center=true&vCenter=true&width=800&height=50&lines=%3E+whoami;Software+Engineer;DevOps+%26+Cloud+Automation;React+%26+Full+Stack+Development" alt="Terminal typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=3000&pause=1000&color=FFB000&center=true&vCenter=true&width=800&height=55&lines=Software+Engineer;DevOps+%26+Cloud+Automation;React+%26+Full+Stack+Developer;Building+Things+That+Matter" alt="Software Engineer | DevOps | Full Stack Developer" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=39FF14&background=0A0A0A00&center=true&vCenter=true&width=800&height=60&lines=%3E+whoami;Abhishek+Jain;%3E+status;ready_to_collaborate" alt="Terminal animation" />
 </p>
 
 ---
+
+<!-- ================= ABOUT ME ================= -->
 
 ### 💻 About Me
 
@@ -25,6 +34,8 @@
 - 🎯 **Objective:** Actively seeking DevOps & Full-Stack engineering internship opportunities.
 
 ---
+
+<!-- ================= TECH STACK ================= -->
 
 ### 🛠️ Tech Stack
 
@@ -65,19 +76,21 @@
 
 ---
 
-### 🐍 GitHub Contributions
+<!-- ================= CONTRIBUTIONS ================= -->
+
+### 🐍 My Contributions
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithabhiishek/codewithabhiishek/output/github-contribution-grid-snake-dark.svg?v=7" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithabhiishek/codewithabhiishek/output/github-contribution-grid-snake.svg?v=7" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/codewithabhiishek/codewithabhiishek/output/github-contribution-grid-snake.svg?v=7" width="100%" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/codewithabhiishek/codewithabhiishek/output/github-contribution-grid-snake.svg?v=7" width="100%" />
   </picture>
 </p>
 
 ---
 
-### 📊 Profile
+<!-- ================= PROFILE VIEWS ================= -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=codewithabhiishek&color=ff0080&style=flat-square&label=Profile+Views" alt="Profile views" />
@@ -86,3 +99,4 @@
 <p align="center">
   <i>Building, breaking, learning, and building again.</i>
 </p>
+
