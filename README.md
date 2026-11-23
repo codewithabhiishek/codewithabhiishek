@@ -4,6 +4,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Developer technology banner" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif" width="100%" alt="Pixel art developer workspace" />
+</p>
+
 <!-- ================= ANIMATED INTRO ================= -->
 
 <h1 align="center">
@@ -87,13 +91,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithabhiishek&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithabhiishek&layout=compact&theme=radical&hide_border=true" height="170" alt="Top languages" />
-</p>
 
 ### 🐍 Contributions
 
