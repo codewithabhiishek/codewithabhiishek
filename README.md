@@ -10,16 +10,8 @@
 
 <!-- ================= INTRODUCTION ================= -->
 
-<h1 align="center">
-  Hi There! 👋 I'm Abhishek Jain! 👨‍💻
-</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=3000&pause=1000&color=FFB000&center=true&vCenter=true&width=800&height=55&lines=Software+Engineer;DevOps+%26+Cloud+Automation;React+%26+Full+Stack+Developer;Building+Things+That+Matter" alt="Software Engineer | DevOps | Full Stack Developer" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=39FF14&background=0A0A0A00&center=true&vCenter=true&width=800&height=60&lines=%3E+whoami;Abhishek+Jain;%3E+status;ready_to_collaborate" alt="Terminal animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&height=90&lines=Hi+There!+%F0%9F%91%8B+I'm+Abhishek+Jain!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Software+Engineer;DevOps+%26+Cloud+Automation;React+%26+Full+Stack+Developer;Building+Things+That+Matter" alt="Animated introduction" />
 </p>
 
 ---
