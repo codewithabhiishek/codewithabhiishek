@@ -18,13 +18,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=3000&pause=1500&color=39FF14&center=true&vCenter=true&width=700&height=40&lines=%3E+status%3A+building;%3E+mode%3A+continuous_learning;%3E+ready_to_collaborate" alt="Terminal status animation" />
 </p>
 
-<p align="center">
-  <a href="https://abhiishek.is-a.dev/"><img src="https://img.shields.io/badge/%E2%96%B6_LIVE_PORTFOLIO-FFB000?style=for-the-badge&logoColor=black" alt="Live portfolio" /></a>
-  <a href="#-featured-projects"><img src="https://img.shields.io/badge/PROJECTS-39FF14?style=for-the-badge&logoColor=black" alt="Projects" /></a>
-  <a href="#-tech-stack"><img src="https://img.shields.io/badge/TECH_STACK-FF00FF?style=for-the-badge&logoColor=white" alt="Tech stack" /></a>
-  <a href="#-connect"><img src="https://img.shields.io/badge/CONNECT-00BFFF?style=for-the-badge&logoColor=white" alt="Connect" /></a>
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 ---
